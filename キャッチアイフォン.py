@@ -1,4 +1,4 @@
-app = Flask(__name__)
+app = Flask(__test__)
 ...
 app.run()
 
