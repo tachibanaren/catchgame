@@ -1,3 +1,8 @@
+app = Flask(__name__)
+...
+app.run()
+
+
 import pygame
 from pygame.locals import *
 import pymunk
